@@ -4,7 +4,7 @@ const myFunction = () => {
   if (a > 5) {
     console.log(a);
   } else {
-    console.log('very small');
+    console.log('really too small');
   }
 }
 
@@ -14,4 +14,8 @@ const anotherAwesomeFunction = () => {
 
 const sum = (a, b) =>  {
   return a + b;
+}
+
+const multiply = (a, b) =>  {
+  return a * b;
 }
