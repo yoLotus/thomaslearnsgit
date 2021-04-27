@@ -9,7 +9,7 @@ const myFunction = () => {
 }
 
 const anotherAwesomeFunction = () => {
-  console.log('awesome!');
+  console.log('awesome!!!!');
 }
 
 const sum = (a, b) =>  {
@@ -22,4 +22,8 @@ const modulo = (a, b) =>  {
 
 const multiply = (a, b) =>  {
   return a * b;
+}
+
+const introduceYou = (myName) =>  {
+  console.log(`My name is ${myName}`)
 }
