@@ -7,3 +7,7 @@ const myFonction = () => {
     console.log('too small');
   }
 }
+
+const anotherAwesomeFunction = () => {
+  console.log('awesome!');
+}
